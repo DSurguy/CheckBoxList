@@ -214,6 +214,13 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 
+#############
+## MISC
+#############
+
 #Node
 node_modules/
 bower_components/
+
+#WebStorm
+*/.idea/*
